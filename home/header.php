@@ -1,7 +1,6 @@
 
 <?php
-require '../db/db_connection.php';
-
+require 'includes/db_connection.php';
 if(!isset($_SESSION['login_id'])){
     header('Location: ../index.php');
     exit;
