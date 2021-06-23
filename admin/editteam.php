@@ -1,5 +1,5 @@
 <?php
-$db_connection = mysqli_connect("localhost","root","","coding");
+$db_connection = mysqli_connect("us-cdbr-east-04.cleardb.com","b3a1bf7a01f094","248d647e","heroku_dc3a34e1ef0430a");
 
 $id = $_POST['id'];
 $nama = $_POST['nama'];
