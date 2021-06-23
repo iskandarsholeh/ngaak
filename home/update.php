@@ -1,5 +1,5 @@
 <?php
-  require '../db/db_connection.php';
+  require '../includes/db_connection.php';
   $email=$_SESSION['email'];
 
   if(isset($_SESSION['id']))
