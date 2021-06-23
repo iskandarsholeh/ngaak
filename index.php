@@ -1,11 +1,11 @@
 <?php
-require 'includes/db_connection.php';
+//require 'includes/db_connection.php';
 
 // if(isset($_SESSION['login_id'])){
 //     header('Location: home/index.php');
 //     exit;
 // }
-//require '../vendor/autoload.php';
+require 'includes/vendor/autoload.php';
 // Creating new google client instance
 $client = new Google_Client();
 
