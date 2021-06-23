@@ -14,7 +14,7 @@ $client->setClientId('550724294949-07kqfqa8l4timk4u5j006lmb1ct101bq.apps.googleu
 // Enter your Client Secrect
 $client->setClientSecret('4tIDXyMiQgoRgCNFFreNm28B');
 // Enter the Redirect URL
-$client->setRedirectUri('http://localhost/kelas-kode22/index.php');
+$client->setRedirectUri('https://kelaskode.herokuapp.com/index.php');
 
 // Adding those scopes which we want to get (email & profile Information)
 $client->addScope("email");
