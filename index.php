@@ -1,6 +1,6 @@
 <?php
     // Define your location project directory in htdocs (EX THE FULL PATH: D:\xampp\htdocs\x-kang\simple-routing-with-php)
-    $project_location = "ngaak";
+    $project_location = "https://github.com/iskandarsholeh/ngaak";
     $me = $project_location;
 
     // For get URL PATH
