@@ -3,7 +3,7 @@
 
  
 // menghubungkan dengan koneksi
-require 'includes/db_connection.php';
+require '../includes/db_connection.php';
 
 // menangkap data yang dikirim dari form
 $username = $_POST['username'];
