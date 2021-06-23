@@ -1,5 +1,5 @@
 <?php
-require 'includes/header.php';
+require 'includes/db_connection.php';
 
 // if(isset($_SESSION['login_id'])){
 //     header('Location: home/index.php');
