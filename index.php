@@ -1,6 +1,6 @@
 <?php
     // Define your location project directory in htdocs (EX THE FULL PATH: D:\xampp\htdocs\x-kang\simple-routing-with-php)
-    $project_location = "/kelas-kode22";
+    $project_location = "https://github.com/iskandarsholeh/ngaak/find/main";
     $me = $project_location;
 
     // For get URL PATH
